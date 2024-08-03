@@ -1,0 +1,16 @@
+{
+  "name": "tg-bot-jobsearch",
+  "version": "1.0.0",
+  "description": "Job searching telegram bot using several websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "basher-207",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "telegraf": "^4.16.3"
+  }
+}
